@@ -7,22 +7,23 @@ Menu
 A Bag of Nails with Support Label
 
 [Main Course]
-Mouth Gag with Mic
+Cheese with Nails
 
 [Side Dishes]
 Enquiry | Question Marks|  ?
 Disapproval | X
 
 [Drink]
-Tears 
-Saliva
-salt, fatty oils, and over 1,500 different proteins
-
+In need of a drink, try to cry or swallow your own saliva. 
+I'm sure you have enough.
 ——— 
 
 [Mouth Gag Napkin]
 Print Out on Napkin
 Bon Appetite 
+
+[Dresscode]
+Mouth Gag with Mic
 
 Table 1 Block K
 Print Out on Tablecloth
