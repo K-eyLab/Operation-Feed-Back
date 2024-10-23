@@ -22,7 +22,6 @@ Print Out on Napkin
 Table 1 Block K
 Panopticon Reversal
 Tablecloth Print
-
 Table 2 Block F
 Higher Education Food Chain > Take Care of your Supply
 Tablecloth Print
