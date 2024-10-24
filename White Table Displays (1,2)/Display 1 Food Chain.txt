@@ -25,7 +25,10 @@ https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/b
 
 -BA Curriculum Leader-{Kira Salter}
 
--Stage Leader-{Leslie Kwok}{Ms Catherine Dixon}
+-Stage Leader-
+Stage 3 {Leslie Kwok}
+Stage 2 {Jaap de Maat}
+Stage 1 {Ms Catherine Dixon}
 
 -Platform Leader Strategy and Identity-{Dr David Preston}
 -Platform Leader Experience and Environment-{Mr Benjamin Cain}
