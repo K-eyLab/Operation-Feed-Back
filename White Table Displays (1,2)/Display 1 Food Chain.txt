@@ -1,6 +1,7 @@
 Display 1: Food Chain in Central Saint Martins - Course BA Graphic Communication Design
 https://www.arts.ac.uk/colleges/central-saint-martins/people
 https://researchers.arts.ac.uk
+https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-communication-design-csm#teaching-staff
 -------
 
 ///CSM University as Organisation
@@ -32,14 +33,25 @@ https://researchers.arts.ac.uk
 =Platform Leader Time and Movement-{Ms Michelle Salamon}
 -Platform Leader Information and Systems-{Paul Finn}
 
+Practices Co-ordinator: Andrea Lioy
 -Practices Tutor Contexts-{Dr Paul Rennie}
 -Practices Tutor Print Production-{Ms Esther Mcmanus}
--Practices Tutor Computation-{Miss Jazmin Morris}
+-Practices Tutor Computation-{Shaheer Tarar}
 -Practices Tutor Lens-{Gary Wallis}
 -Practices Tutor Typography-{Stephen Barrett}
 
--Lecturer-{Mr Mikael Calandra Achode}{Miss Anoushka Khandwala}
--Associate Lecturer-{Martin Mcgrathjm }
+-Lecturer
+-{Mr Mikael Calandra Achode}
+-{Miss Anoushka Khandwala}
+
+Associate Lecturer: Brendan Olley
+Associate Lecturer: Howard Read
+Associate Lecturer: Ken Hollings
+Associate Lecturer: Martin McGrath
+Associate Lecturer: Tammy Gur
+Associate Lecturer: Oluwatomilola Adefioye
+Associate Lecturer: Will Bindley
+
 
 -Graduate Teaching Assistants (GTA) 
 Monica.O/Amandine.F/Lucas.P/Irene.L/Tracy.Z
