@@ -28,15 +28,15 @@ https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/b
 -Stage Leader-
 Stage 3 {Leslie Kwok}
 Stage 2 {Jaap de Maat}
-Stage 1 {Ms Catherine Dixon}
+Stage 1 {Catherine Dixon}
 
 -Platform Leader Strategy and Identity-{Dr David Preston}
 -Platform Leader Experience and Environment-{Mr Benjamin Cain}
--Platform Leader Narrative and Voice
+-Platform Leader Narrative and Voice-{Andrew Hall}
 =Platform Leader Time and Movement-{Ms Michelle Salamon}
 -Platform Leader Information and Systems-{Paul Finn}
 
-Practices Co-ordinator: Andrea Lioy
+Practices Co-ordinator: {Andrea Lioy}
 -Practices Tutor Contexts-{Dr Paul Rennie}
 -Practices Tutor Print Production-{Ms Esther Mcmanus}
 -Practices Tutor Computation-{Shaheer Tarar}
@@ -54,7 +54,6 @@ Associate Lecturer: Martin McGrath
 Associate Lecturer: Tammy Gur
 Associate Lecturer: Oluwatomilola Adefioye
 Associate Lecturer: Will Bindley
-
 
 -Graduate Teaching Assistants (GTA) 
 Monica.O/Amandine.F/Lucas.P/Irene.L/Tracy.Z
