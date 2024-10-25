@@ -1,14 +1,15 @@
 # Operation-Feed-Back
 Request Central Saint Martins to establish long-term effective policy in standardizing how their staffs deliver feedback to students.
-website: feed-back.net
+
+Website: feed-back.net
 
 FEED-BACK: A Feast for CSM Staffs
 ----
 Menu
 [Starter]
-A Bag of Nails with Support Label
+A Bag of needles with Support Label
 [Main Course]
-Cheese with Nails
+Cheese with Screws
 [Side Dishes]
 Enquiry | Question Marks|  ?
 Disapproval | X
@@ -16,8 +17,5 @@ Disapproval | X
 If in need of a drink, swallow own saliva. 
 ----
 Merch
-[Microphone Mouth Gag Napkin]
+[Microphone Gag Napkin]
 Print Out on Napkin
-----
-Table 1 Block K_Panopticon Reversal_Tablecloth Print/Table 2 Block F_Higher Education Food Chain > Take Care of your Supply_Tablecloth Print
-----
