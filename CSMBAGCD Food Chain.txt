@@ -88,10 +88,8 @@ Aolei/Ava/Avina/Emma/Eve/Joles/Jude/Louie/Marcus/Syed/Taylor/Miles
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
-(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
-(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
-(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
- 
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+
 ------
 [Category: Technical Staffs]
 Head of Technical Resources - {Howard Taylor} -lead the technical teams at Central Saint Martins, which consists of [130 technical professionals] across [13 technical clusters] with [42 distinct technical areas].
