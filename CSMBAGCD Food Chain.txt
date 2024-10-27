@@ -1,28 +1,29 @@
-Display 1: Food Chain in Central Saint Martins - Course BA Graphic Communication Design
+Display 1: Food Chain in Central Saint Martins - Course BA Graphic Communication Design - 24/25
+Source:
 https://www.arts.ac.uk/colleges/central-saint-martins/people
 https://researchers.arts.ac.uk
 https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-communication-design-csm#teaching-staff
 -------
-
 ///CSM University as Organisation
 [Category: Executive Board for College Management] 
+-Director of College Administration, {Julia Dawson}
 -Dean of College, Professor and Pro Vice Chancellor Head of College CSM, {Rathna Ramanathan}
--Dean of Academic Programmes {Paul Haywood}
--Dean of Academic Strategy {Allan Atlee}
--Dean of Research and Knowledge Exchange {Helen Brooks}
+
+*Dean of Academic Strategy {Allan Atlee} ]
+*Associate Dean of Learning, Teaching and Enhancement - {Silke Lange}
+*Associate Dean of Student Experience and Enhancement - {Jonathan Carson}
+
 -Acting Dean of C School (Art, Culture, Performance)
--Dean of S School (Enterprise, GCD, PCID, Spatial Practices) {Rebecca Wright}
+*Dean of S School (Enterprise, GCD, PCID, Spatial Practices) {Rebecca Wright}
 -Dean of M School (Fashion and JTM) 
--Associate Dean of Learning, Teaching and Enhancement - {Silke Lange}
+-Dean of Academic Programmes {Paul Haywood}
+-Dean of Research and Knowledge Exchange {Helen Brooks}
 
 --------
-
 [Category: Staffs] BA Graphic Communication
 -Programme Director-{Dr Rebecca Ross}
 -External Liaison Coordinator- {David Frame}
-
 -Programme Administration Manager-{Helen Savage}
-
 -BA Curriculum Leader-{Kira Salter}
 
 -Stage Leader-
@@ -46,7 +47,6 @@ Practices Co-ordinator: {Andrea Lioy}
 -Lecturer
 -{Mr Mikael Calandra Achode}
 -{Miss Anoushka Khandwala}
-
 Associate Lecturer: Brendan Olley
 Associate Lecturer: Howard Read
 Associate Lecturer: Ken Hollings
@@ -57,11 +57,10 @@ Associate Lecturer: Will Bindley
 
 -Graduate Teaching Assistants (GTA) 
 Monica.O/Amandine.F/Lucas.P/Irene.L/Tracy.Z
-
 -Course Student Representatives 24/25
 Aolei/Ava/Avina/Emma/Eve/Joles/Jude/Louie/Marcus/Syed/Taylor/Miles
 
--Students
+-Students (estimation of 150 students per Level/Stage in a course)
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
@@ -80,10 +79,20 @@ Aolei/Ava/Avina/Emma/Eve/Joles/Jude/Louie/Marcus/Syed/Taylor/Miles
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
-...
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
+(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
  
-----------
-
+------
 [Category: Technical Staffs]
 Head of Technical Resources - {Howard Taylor} -lead the technical teams at Central Saint Martins, which consists of [130 technical professionals] across [13 technical clusters] with [42 distinct technical areas].
 -Technical Tutor, Teaching Fellow
@@ -98,20 +107,25 @@ Head of Technical Resources - {Howard Taylor} -lead the technical teams at Centr
 -Co-Director of CSM Innovation - {Monica Hundal}
 -Co-Director of CSM Innovation - {Marie McMillan}
 
------------------------------------------------Opposition for Balance and Student Equity
-
-///Arts Student Union
+--------------------------------------------------Opposition for Balance and Student Equity
+///Arts Student Union 24/25
+Source
 https://www.arts-su.com/contact/
-
--CSM Officer - Zainab Goriawala
+https://www.arts-su.com/voice/academic/school-reps/
+-----
+CSM Officer - Zainab Goriawala
 The CSM Officer represents the interests of all students studying at Central Saint Martins college.
 
 -Student Communities Officer -  {Sayali Waghmare}
-
 -Union Affairs Officer - {Chihiro Tateno}
 
 -School Student Representative
+C:Isa Navarro Alatorre
+S:Aditya Singh (csm.s.reps@su.arts.ac.uk)
+M:TBC
+
 -Course Student Representatives (CourseReps@su.arts.ac.uk)
 
+-----x
 
 
