@@ -1,13 +1,15 @@
 # Operation-Feed-Back
 Website: feed-back.net
+Key:17509945
 
 
-Operation Feed-Back is a student-led campaign founded in October,2024. 
+Operation Feed-Back is a student-led campaign founded in October, 2024. 
 
-We make complaints to raise awareness on stifling impacts from tutors feedback, which created a hostile work environment; where the students are required to perform normally even under negative influence. 
+We aim to raise awareness on stifling impacts from tutors’ negative feedback. 
 
-Our goal is to reach agreement with Central Saint Martins, to enforce long-term effective policy in standardization of feedback delivery process.
+These careless remarks caused a hostile work environment, where students are under obligation to perform normally, even when their confidence is breached, constantly experience non-constructive criticism, complete disapproval and being disregarded.
 
+Our goal is to reach a consensus with Central Saint Martins administration and management team, to enforce long-term effective policy, in purpose to standardise staff’s feedback delivery process.
 
 
 
