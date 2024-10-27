@@ -118,6 +118,7 @@ The CSM Officer represents the interests of all students studying at Central Sai
 -Union Affairs Officer - {Chihiro Tateno}
 
 -School Student Representative
+School Reps are elected student volunteers who represent students across all courses within their school. There are two School Reps per school at each of UAL’s colleges, with 24 total School Reps.
 C:Isa Navarro Alatorre
 S:Aditya Singh (csm.s.reps@su.arts.ac.uk)
 M:TBC
