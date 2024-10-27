@@ -57,10 +57,10 @@ Associate Lecturer: Will Bindley
 
 -Graduate Teaching Assistants (GTA) 
 Monica.O/Amandine.F/Lucas.P/Irene.L/Tracy.Z
--Course Student Representatives 24/25
+-Course Student Representatives (BAGCD Stage 3 24/25)
 Aolei/Ava/Avina/Emma/Eve/Joles/Jude/Louie/Marcus/Syed/Taylor/Miles
 
--Students (estimation of 150 students per Level/Stage in a course)
+-Students (estimation of 150 students per Level/Stage in BA course)
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
 (ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)(ID*1xxxxxxx)
